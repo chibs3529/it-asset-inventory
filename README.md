@@ -1,4 +1,4 @@
-# it-asset-inventory
+# It-asset-inventory
 
 A browser-based IT asset inventory dashboard built with plain HTML, CSS and JavaScript. No frameworks, no backend, no build steps — just open `index.html` and it works.
 
